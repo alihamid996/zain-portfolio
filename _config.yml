@@ -7,20 +7,20 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title:  Zain Al-Abdeen's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: Zain Al-Abdeen
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Civil Engineer with hands‑on experience in site supervision, multidisciplinary coordination, and end‑to‑end project execution across Iraq and Syria.
+  Proven record in leading complex infrastructure and rehabilitation projects, integrating civil, electrical, and mechanical systems, 
+  and ensuring strict compliance with quality and safety standards.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/zain.jpeg
 
 
 # Link your resume
